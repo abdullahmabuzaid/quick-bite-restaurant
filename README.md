@@ -54,7 +54,7 @@ The system follows a classic **Client-Server Architecture**:
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/AbdullahAbuZaid04/quick-bite-restaurant.git
+git clone https://github.com/abdullahmabuzaid/quick-bite-restaurant.git
 cd quick-bite-restaurant
 ```
 
@@ -168,9 +168,9 @@ This project was developed under the academic guidance and supervision of:
 
 Our amazing team who built this project:
 
-| <a href="https://github.com/AbdullahAbuZaid04"><img src="https://github.com/AbdullahAbuZaid04.png?size=80" width="80" height="80" alt="Abdullah AbuZaid" /></a> | <a href="https://github.com/Exception3010"><img src="https://github.com/Exception3010.png?size=80" width="80" height="80" alt="Hazem Oukal" /></a> | <a href="https://github.com/abd92003"><img src="https://github.com/abd92003.png?size=80" width="80" height="80" alt="Abdalkareem Abo Younis" /></a> | <a href="https://github.com/Abdallah0592330273"><img src="https://github.com/Abdallah0592330273.png?size=80" width="80" height="80" alt="Abdullah Al-Hindawi" /></a> |
+| <a href="https://github.com/abdullahmabuzaid"><img src="https://github.com/abdullahmabuzaid.png?size=80" width="80" height="80" alt="Abdullah AbuZaid" /></a> | <a href="https://github.com/Exception3010"><img src="https://github.com/Exception3010.png?size=80" width="80" height="80" alt="Hazem Oukal" /></a> | <a href="https://github.com/abd92003"><img src="https://github.com/abd92003.png?size=80" width="80" height="80" alt="Abdalkareem Abo Younis" /></a> | <a href="https://github.com/Abdallah0592330273"><img src="https://github.com/Abdallah0592330273.png?size=80" width="80" height="80" alt="Abdullah Al-Hindawi" /></a> |
 | :---: | :---: | :---: | :---: |
-| **[Abdullah AbuZaid](https://github.com/AbdullahAbuZaid04)** | **[Hazem Oukal](https://github.com/Exception3010)** | **[Abdalkareem Abo Younis](https://github.com/abd92003)** | **[Abdullah Al-Hindawi](https://github.com/Abdallah0592330273)** |
+| **[Abdullah AbuZaid](https://github.com/abdullahmabuzaid)** | **[Hazem Oukal](https://github.com/Exception3010)** | **[Abdalkareem Abo Younis](https://github.com/abd92003)** | **[Abdullah Al-Hindawi](https://github.com/Abdallah0592330273)** |
 | Leader & Front-end | Back-end Developer | Back-end Developer | Database Developer |
 
 ---
